@@ -1,0 +1,31 @@
+.container{
+    width: 800px;
+    height: 170px;
+    background-color: #ddd;
+    display: flex;
+    justify-content: space-around;
+}
+.weathersCard{
+    width: 110px;
+    height: 100%;
+    background-color:#ddd;
+    box-sizing: border-box;
+    padding: 2px;
+    margin: 0 1px;
+}
+.weathersCard:first-child{
+    background-color:#efefef;
+    box-sizing: border-box;
+    border: 1px solid grey;
+}
+.maxmin{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+.daytitle{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    opacity: 0.75;
+}

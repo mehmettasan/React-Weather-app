@@ -1,0 +1,16 @@
+.container{
+    width: 800px;
+    height: 50px;
+    background-color: #d2d2d2;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+.select{
+    background-color: #d2d2d2;
+    width: 250px;
+    height: 100%;
+    font-size: x-large;
+    outline: none;
+    border: none;
+}

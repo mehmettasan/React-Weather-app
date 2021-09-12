@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+.title{
+  text-align: center;
+  font-size: 3rem;
+  color: grey;
+}
